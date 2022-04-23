@@ -1,2 +1,2 @@
-# FireBaseChatAppAndroid
-Forked For Android Development
+# FireBaseChatApp
+Main
